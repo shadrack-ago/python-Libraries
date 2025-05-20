@@ -1,0 +1,50 @@
+"A Python library is a collection of pre-written code that you can use to perform common tasks without having to write everything from scratch." 
+Installing Python Packages – Simple Summary
+
+Python has lots of built-in tools (standard library), but sometimes you'll need more. That’s where third-party packages come in — extra tools made by the community.
+
+pip
+
+pip is Python’s tool for installing packages.
+
+It stands for "Pip Installs Packages".
+
+If you’re using Python 3.4 or newer, you already have pip3.
+
+To install a package, just run: pip install package_name  
+
+
+
+PyPI
+
+PyPI (Python Package Index) is the place where all these third-party packages live.
+
+pip automatically pulls packages from PyPI.
+
+You can also visit pypi.org to search for packages manually.
+
+Popular third-party libraries
+
+PyPI has thousands of packages, it would be impossible to summarize them all. But there are a handful of go-to packages that many people use for common tasks:
+
+requests
+scrapy
+Twisted
+Pillow
+lxml
+PyYAML
+Django, Flask, Pyramid
+SQLAlchemy
+numpy, scipy, pandas
+pytest, tox, coverage, mock
+six
+Jinija2
+cryptography
+pylint, flake8, pep8
+pymongo, redis, MySQL-Python, psycopg2
+
+
+
+Resources:
+
+https://www.netsolutions.com/insights/top-10-python-frameworks-for-web-development-in-2019/
