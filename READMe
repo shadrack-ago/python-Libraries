@@ -43,8 +43,36 @@ cryptography
 pylint, flake8, pep8
 pymongo, redis, MySQL-Python, psycopg2
 
-
-
 Resources:
 
 https://www.netsolutions.com/insights/top-10-python-frameworks-for-web-development-in-2019/
+
+Python Standard Library
+
+The Python Standard Library is a collection of built-in modules that come with Python. These modules help you do common tasks like reading files, working with dates, or handling math — without installing anything extra.
+
+
+
+Popular Extra Python Libraries:
+
+TensorFlow – For machine learning and deep learning.
+
+Matplotlib – For creating charts and graphs.
+
+Pandas – For handling and analyzing data.
+
+NumPy – This is for working with numbers and large arrays.
+
+SciPy – For scientific and technical computing.
+
+Scrapy – For web scraping (getting data from websites).
+
+Scikit-learn – For machine learning (like predictions and classifications).
+
+PyGame – For building games with graphics and sound.
+
+PyTorch – For deep learning and neural networks.
+
+PyBrain – For beginners in machine learning and AI.
+
+There are many more libraries in Python. We can use a suitable library for our purposes. Hence, Python libraries play a very crucial role and are very helpful to the developers
